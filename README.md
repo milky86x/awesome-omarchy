@@ -689,7 +689,7 @@ omarchy-theme-install https://github.com/TyRichards/omarchy-space-monkey-theme
 
 ### [Spider-Man](https://github.com/milky86x/spiderman)
 
-[![Spider-Man Preview](https://raw.githubusercontent.com/milky86x/spiderman/main/preview.png)](https://github.com/milky86x/spiderman)
+[![Spider-Man Preview](https://raw.githubusercontent.com/milky86x/spiderman/master/preview.png)](https://github.com/milky86x/spiderman)
 Install:
 ```
 omarchy-theme-install https://github.com/milky86x/spiderman
